@@ -28,7 +28,8 @@
     "uniqCompNum": 9,
     "versionPublish": "4.8.2",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -85,7 +86,7 @@
           },
           "title": "YRG Multiservicios",
           "text": "Una solución para cada problema",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">conozca más</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">conozca más</a>",
           "_tags": [
             "Theme"
           ],
