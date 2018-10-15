@@ -84,7 +84,7 @@
               "size": 250
             }
           },
-          "title": "YRG Multiservicios",
+          "title": "<span style=\"font-weight: normal;\">YRG Multiservicios</span>",
           "text": "Una solución para cada problema",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">conozca más</a>",
           "_tags": [
@@ -94,6 +94,15 @@
           "_anchor": "header2-1",
           "_styles": {
             ".mbr-section-title": {
+              "font-size": "46px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "font-size": "17px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "46px"
             }
           }
