@@ -417,6 +417,9 @@ h6,
 .scrollToTop_wraper {
   display: none;
 }
+#header2-1 .mbr-section-title {
+  font-size: 46px;
+}
 #header3-4 .mbr-section-title,
 #header3-4 .mbr-section-subtitle {
   text-align: center;

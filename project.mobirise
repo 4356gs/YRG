@@ -91,7 +91,12 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-1"
+          "_anchor": "header2-1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_styles": {
@@ -227,7 +232,7 @@
           "caption1": "Alarmas Residenciales<br>Camaras de Seguridad<br>Puertas y Accesos",
           "title2": "Hogar y Oficina",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Abanicos<br>Inversores<br>Instalación de TV<br>Equipos de sonidos",
+          "caption2": "Instalación de TV<br>Abanicos<br>Inversores<br>Equipos de sonidos",
           "title3": "Computadoras",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Reparación<br>Mantenimiento<br>y más",
@@ -263,7 +268,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Dirección</strong><br>C/ 19 esq 20<br>Villa Aura<br>Santo Domingo Oeste<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@gmail.com<br>\nPhone: +1 809 838 7870<br>",
+          "text1": "<strong>Dirección</strong><br>C/ 19 esq 20<br>Villa Aura<br>Santo Domingo Oeste<br><br><br>\n<strong>Contacts</strong><br>\nEmail: yrgmultiservicios19@gmail.com<br>\nPhone: +1 809 838 7870<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">S</a>eguridad</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">H</a>ogar</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">C</a>omputadoras</li></ul>",
           "form": {
             "title": "MESSAGE",
